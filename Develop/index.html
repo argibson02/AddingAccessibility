@@ -10,7 +10,6 @@
 <body>
     <!--changed div to a header element-->
     <header>
-        <!--FIX THIS SEO THING? Remove padding from <a> -->  
         <h1>
             <a href="#">Hori<span class="seo">seo</span>n</a>
         </h1>
@@ -28,26 +27,26 @@
             </ul>
         </nav>
     </header>
-    <!--Added alt text, left as <div>-->
+    <!--Added alt text, left as <div>. The image wouldn't add much to a screenreader user-->
     <div alt="Horiseon Teamwork Image" class="mainCoverImage"></div>
     <!--changed to main element-->
-    <main class="content">
-    <!--changed to section element-->
-        <section id="search-engine-optimization" class="search-engine-optimization">
+    <main class="mainContent">
+    <!--changed to section element. Removed unused IDs, condenced clases-->
+        <section class="mainContentSection">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Search Engine Optimization Image"/>    <!--Added alt text-->
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
         </section>
-        <section id="online-reputation-management" class="online-reputation-management">
+        <section class="mainContentSection">
             <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Online Reputation Management Image"/>    <!--Added alt text-->
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
         </section>
-        <section id="social-media-marketing" class="social-media-marketing">
+        <section class="mainContentSection">
             <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="Social Media Marketing Image"/>    <!--Added alt text-->
             <h2>Social Media Marketing</h2>
             <p>
@@ -82,7 +81,7 @@
     </aside>
     <!--changed to footer element-->
     <footer>
-        <h2>Made with ❤️️ by Horiseon</h2>
+        <h2>Made with <span role="img" aria-label="love">&#x2764;</span>️ by Horiseon</h2>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>

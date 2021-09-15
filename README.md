@@ -5,12 +5,17 @@
 Making a non-accessible website accessible, Bootcamp HW
 
 Change notes:
-- Condenced some CSS logic with search-engine-optimization, online-reputation-management, and social-media-marketing.
+- Condenced the CSS logic with search-engine-optimization, online-reputation-management, and social-media-marketing. Now all called mainContentSection.
+- Condenced the list logic in CSS.
+- Restructured the ordering in CSS to make more sense hierarchically.
 - Fixed broken the Search Engine Optimization jump.
-- Clicking on the Hoiseon main title now brings you to back to initial page.
-- Changed many <div>s to the now be semantics for better accessibility
-- Added alt text
-- Added tab icon
+- Clicking on the Hoiseon main title now brings you to back to the initial page.
+- Changed many divs to the now be semantics for better accessibility.
+- Added alt text.
+- Added a website title.
+- Added tab icon.
+- Added aria label to ❤️ in footer.
+
 
 
 
@@ -30,7 +35,7 @@ WHEN I view the icon and image elements
 THEN I find accessible alt attributes -- DONE
 
 WHEN I view the heading attributes
-THEN they fall in sequential order
+THEN they fall in sequential order 
 
 WHEN I view the title element
 THEN I find a concise, descriptive title -- DONE

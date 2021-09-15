@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header and Nav Link Start*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -21,24 +22,9 @@ header h1 {
     padding: 0px 0px;
 }
 
-/*Unsure why the seo is a slightly different white. Odd, but keeping to maintain original look. Must be a branding thing.*/
+/*Unsure why the seo is a slightly different white. Must be a branding thing. Keeping to maintain original look.*/
 header h1 .seo {
     color: #d9dcd6;
-}
-
-header ul {
-    list-style-type: none;
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-header ul li {
-    display: inline-block;
-    margin-left: 20px;
-    line-height: 5px;
 }
 
 a {
@@ -46,14 +32,6 @@ a {
     text-decoration: none;
     text-align: center;
     display: block;
-}
-
-.navBar {
-    padding: 14px 16px;
-}
-
-p {
-    font-size: 16px;
 }
 
 nav {
@@ -64,17 +42,24 @@ nav {
     font-size: 20px;
 }
 
-ul {
+/*Condenced and cleaned up the list logic*/
+header ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+header ul li {
     display: inline-block;
+    margin-left: 20px;
+    line-height: 5px;
 }
 
-li {
-    float: left;
+p {
+    font-size: 16px;
 }
 
+/*Renamed to more descriptive class*/
 .mainCoverImage {
     height: 800px;
     width: 100%;
@@ -82,6 +67,14 @@ li {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+
+/*Main Content Start*/
+.mainContent {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .float-left {
@@ -94,12 +87,29 @@ li {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+/*Condenced identical classes*/
+.mainContentSection {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
 
+/*Condenced identical classes*/
+.mainContentSection img {
+    max-height: 200px;
+}
+
+/*Condenced identical classes*/
+.mainContentSection h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*Aside Start*/
+/*swapped to the semantic element*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -111,40 +121,26 @@ aside {
     background-color: #2589bd;
 }
 
+/*Condenced identical classes*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Condenced identical classes*/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Condenced identical classes*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/*Footer Start*/
 footer {
     padding: 30px;
     clear: both;
