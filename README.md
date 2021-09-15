@@ -2,7 +2,7 @@
 
 ## Description
 
-Making a non-accessible website accessible, Bootcamp HW
+Making a non-accessible website accessible, Bootcamp HW.
 
 Change notes:
 - Condenced the CSS logic with search-engine-optimization, online-reputation-management, and social-media-marketing. Now all called mainContentSection.
@@ -14,7 +14,7 @@ Change notes:
 - Added alt text.
 - Added a website title.
 - Added tab icon.
-- Added aria label to ❤️ in footer.
+- Added aria label to the ❤️ in footer.
 
 
 
