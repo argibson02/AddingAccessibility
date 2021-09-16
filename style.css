@@ -62,7 +62,8 @@ p {
 /*Renamed to more descriptive class*/
 .mainCoverImage {
     height: 800px;
-    max-width: 100%;
+    width: 100%;
+    max-width: 3840px;
     margin-bottom: 25px;
     background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: cover;
