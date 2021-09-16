@@ -15,6 +15,8 @@ Change notes:
 - Condensed the CSS logic with search-engine-optimization, online-reputation-management, and social-media-marketing. Now all under the mainContentSection class.
 - Condensed the list logic in CSS.
 - Added aria label to the ❤️ in the footer.
+- Improved webpage performance.
+
 
 ![Horiseon Main Landing Page](https://github.com/argibson02/RefactorForAccessibility/blob/main/Reference%20Page/01-html-css-git-homework-demo.png?raw=true)
 
@@ -35,13 +37,13 @@ Any modern internet browser will do!
 
 ## Authors
 
-* **Alexander Gibson** 
+**Alexander Gibson** 
 
 - [Link to my Portfolio Site](https://argibson02.github.io/)
 - [Link to my Github](https://github.com/argibson02)
 - [Link to my LinkedIn](www.linkedin.com/in/alexander-gibson-1b0bb6105)
 
-## Acknowledgments
+## Acknowledgments 😊
 
 - Thanks to Jerome, Manuel, Cheng, and Daniel for instructing the class.
-- Thanks to Gabe Crosetti for all of the partner work that helped to strengthen my coding muscles. 
+- Thanks to Gabe Crosetti for all of the paired-partner work that helped to strengthen my coding skils. 
