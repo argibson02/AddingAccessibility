@@ -15,7 +15,7 @@ Change notes:
 - Condensed the CSS logic with search-engine-optimization, online-reputation-management, and social-media-marketing. Now all under the mainContentSection class.
 - Condensed the list logic in CSS.
 - Added aria label to the ❤️ in the footer.
-- Improved webpage performance with some images.
+- Improved webpage performance involved with displaying some images.
 
 
 ![Horiseon Main Landing Page](https://github.com/argibson02/RefactorForAccessibility/blob/main/Reference%20Page/01-html-css-git-homework-demo.png?raw=true)
