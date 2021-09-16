@@ -31,6 +31,21 @@ Any modern internet browser will do!
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## Technologies Used
+
+* [Microsoft Visual Studio Code](https://code.visualstudio.com/)
+* [Git Bash](https://git-scm.com/downloads)
+* [GitHub](https://github.com/)
+* [NVDA Screen Reader](https://www.nvaccess.org/)
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+* [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
+
+## Practices Used
+
+* Agile style User Story and Acceptance Criteria.
+* [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
 ## Deployed Link
 
 * [See Live Site!](https://argibson02.github.io/RefactorForAccessibility/)
