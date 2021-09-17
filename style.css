@@ -35,10 +35,12 @@ header h1 #seo {
 
 nav {
     float: right;
+    justify-content: flex-end;
     padding-top: 15px;
     margin-right: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    display: flex;
 }
 
 /*Condenced and cleaned up the list logic a bit*/
@@ -151,4 +153,10 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+@media screen and (max-width: 1004px) {
+    header {
+        flex-direction: column;
+    }
 }
