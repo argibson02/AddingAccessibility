@@ -32,11 +32,10 @@ header a {
 header h1 #seo {
     color: #d9dcd6;
 }
-
+/*added some responsive design*/
 nav {
     float: right;
-    justify-content: flex-end;
-    padding-top: 15px;
+    padding-top: 20px;
     margin-right: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
@@ -158,5 +157,10 @@ footer h2 {
 @media screen and (max-width: 1004px) {
     header {
         flex-direction: column;
+    }
+
+    nav {
+        justify-content: center;
+        padding-top: 10px;
     }
 }
