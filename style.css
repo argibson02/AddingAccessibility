@@ -13,6 +13,8 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+    display: flex;
+    justify-content: space-between;
 }
 
 header h1 {
@@ -34,12 +36,10 @@ header h1 #seo {
 }
 /*added some responsive design*/
 nav {
-    float: right;
     padding-top: 20px;
     margin-right: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    display: flex;
 }
 
 /*Condenced and cleaned up the list logic a bit*/
@@ -157,10 +157,10 @@ footer h2 {
 @media screen and (max-width: 1004px) {
     header {
         flex-direction: column;
+        align-items: center;
     }
 
     nav {
-        justify-content: center;
         padding-top: 10px;
     }
 }

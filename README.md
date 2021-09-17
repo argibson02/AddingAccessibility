@@ -62,3 +62,4 @@ Any modern internet browser will do!
 
 - Thanks to Jerome, Manuel, Cheng, and Daniel for instructing the class.
 - Thanks to Gabe Crosetti for all of the paired-partner work that helped to strengthen my coding skils. 
+- Thank you CSS-Tricks for the [flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
