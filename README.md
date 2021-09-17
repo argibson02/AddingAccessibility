@@ -4,7 +4,7 @@
 
 This project updated the Horiseon main landing page to have it meet accessibility standards and to extend our reach to even more clients. In keeping with Horiseon's core value of providing excellent service and exceeding expectations, we have also cleaned up various bugs and tuned up the webpage's inner-workings. 
 
-Change notes:
+**Change notes:**
 - Changed many divs to be semantics for better accessibility.
 - Added alt text.
 - Added a website title.
