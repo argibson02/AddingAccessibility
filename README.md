@@ -23,7 +23,7 @@ Change notes:
 
 **Example of Changes**
 
-![Example of Code Changes](https://github.com/argibson02/RefactorForAccessibility/blob/main/Reference%20Images/Example-of-Code-Changes?raw=true)
+![Example of Code Changes](https://github.com/argibson02/RefactorForAccessibility/blob/main/Reference%20Images/Example-of-Code-Changes.png?raw=true)
 
 *(Homework project #1 for the UC Berkeley Full-Stack Developer Bootcamp)*
 
