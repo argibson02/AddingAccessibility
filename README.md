@@ -18,6 +18,8 @@ Change notes:
 - Improved webpage performance involved with displaying some images.
 
 
+**Horiseon Main Landing Page**
+
 ![Horiseon Main Landing Page](https://github.com/argibson02/RefactorForAccessibility/blob/main/Reference%20Images/01-html-css-git-homework-demo.png?raw=true)
 
 
