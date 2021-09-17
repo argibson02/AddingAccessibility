@@ -18,8 +18,12 @@ Change notes:
 - Improved webpage performance involved with displaying some images.
 
 
-![Horiseon Main Landing Page](https://github.com/argibson02/RefactorForAccessibility/blob/main/Reference%20Page/01-html-css-git-homework-demo.png?raw=true)
+![Horiseon Main Landing Page](https://github.com/argibson02/RefactorForAccessibility/blob/main/Reference%20Images/01-html-css-git-homework-demo.png?raw=true)
 
+
+**Example of Changes**
+
+![Example of Code Changes](https://github.com/argibson02/RefactorForAccessibility/blob/main/Reference%20Images/Example-of-Code-Changes?raw=true)
 
 *(Homework project #1 for the UC Berkeley Full-Stack Developer Bootcamp)*
 
@@ -62,4 +66,4 @@ Any modern internet browser will do!
 
 - Thanks to Jerome, Manuel, Cheng, and Daniel for instructing the class.
 - Thanks to Gabe Crosetti for all of the paired-partner work that helped to strengthen my coding skils. 
-- Thank you CSS-Tricks for the [flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Thank you CSS-Tricks for the [flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
