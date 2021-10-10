@@ -27,7 +27,6 @@ This project updated the Horiseon main landing page to have it meet accessibilit
 
 ![Example of Code Changes](https://github.com/argibson02/RefactorForAccessibility/blob/main/Reference%20Images/Example-of-Code-Changes.png?raw=true)
 
-*(Homework project #1 for the UC Berkeley Full-Stack Developer Bootcamp)*
 
 ## Prerequisites
 Any modern internet browser will do!
@@ -69,3 +68,5 @@ Any modern internet browser will do!
 - Thanks to Jerome, Manuel, Cheng, and Daniel for instructing the class.
 - Thanks to Gabe Crosetti for all of the paired-partner work that helped to strengthen my coding skils. 
 - Thank you CSS-Tricks for the [flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
