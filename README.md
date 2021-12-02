@@ -59,9 +59,9 @@ Any modern internet browser will do!
 
 **Alexander Gibson** 
 
-- [Link to my Portfolio Site](https://argibson02.github.io/)
+- [Link to my Portfolio Site](https://argibson02.github.io/Professional-Portfolio-React/)
 - [Link to my Github](https://github.com/argibson02)
-- [Link to my LinkedIn](www.linkedin.com/in/alexander-gibson-1b0bb6105)
+- [Link to my LinkedIn](https://www.linkedin.com/in/alexander-r-gibson/)
 
 ## Acknowledgments 😊
 
